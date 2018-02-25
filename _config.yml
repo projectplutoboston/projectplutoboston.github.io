@@ -1,10 +1,10 @@
 # Site settings
-author:
-title:
-email:
-description:
-keywords:
-baseurl:
+author: Thomas Harmon
+title: Project Pluto
+email: harmonbiz808@gmail.com
+description: Combing duality with reality to find the holy trinity.
+keywords: Hype, clothes, designer, supreme, gucci, louis vutton, balenciaga, off white, resell, limited, custom, boutique, private, collection, consignment, premium, luxury, 
+baseurl: 
 url:
 
 # Info
@@ -12,11 +12,11 @@ skills:
 
 # Social media
 social:
-  - title:
+  - title: Facebook
     url:
-  - title:
+  - title: Instagram
     url:
-  - title:
+  - title: Snapchat
     url:
 
 
