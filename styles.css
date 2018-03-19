@@ -46,7 +46,10 @@ h4{
 	left:62%;
 }
 
-a, a:hover, a:active, a:visited { color: white; }
+a, a:hover, a:active, a:visited { 
+	color: white; 
+text-align:center;
+}
 
 a:hover{
 	background-color:#FFFACD;
