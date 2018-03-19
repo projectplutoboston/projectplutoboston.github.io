@@ -12,3 +12,7 @@ h1{
 body{
 color:rgb(255,171,0);
 }
+
+.red{
+	background-color:red;
+}
