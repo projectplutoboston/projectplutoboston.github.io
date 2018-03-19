@@ -10,7 +10,7 @@ h4{
 }
 
 body{
-color:rgb(255,171,0);
+color:rgba(255,171,0,0.2);
 }
 
 
@@ -18,6 +18,6 @@ color:rgb(255,171,0);
 	background-color:red;
 }
 
-.container{
+.black{
 	background-color:black;
 }
